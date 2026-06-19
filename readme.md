@@ -151,6 +151,8 @@ house-prices/
 ├── requirements.txt
 │
 └── README.md
+```
+
 ---
 
 ## 📚 Bibliotecas utilizadas
